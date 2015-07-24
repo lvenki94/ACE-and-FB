@@ -2,4 +2,4 @@
 
 A simple website for Alliance Center for Entreprenuership and Family Business.
 
-<a href = "http://lvenki94.github.io/ACE-and-FB">ACE and FB (Click to View the Site)</a>
+<a href = "http://lvenki94.github.io/ACE-and-FB" target = "new">ACE and FB (Click to View the Site)</a>
